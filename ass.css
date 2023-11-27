@@ -28,6 +28,7 @@
     border-radius: 10px;
     height: 50px;
     background-color: goldenrod;
+    border: none;
 }
 #butto{
     position: relative;
@@ -35,6 +36,7 @@
     font-size: 20px;
     border-radius: 15px;
     height: 70px;
+    border: none;
     background-color: blue;
 }
 #btto{
@@ -44,6 +46,7 @@
     border-radius: 15px;
     height: 70px;
     background-color: goldenrod;
+    border: none;
 }
 #mus{
     position: relative;
@@ -55,22 +58,24 @@
     color: black;
     border-radius: 12px;
     margin-top: 20px;
+    background-color: white;
+    height: 500px;
     
 }
-#mar :hover{
-    background-color: green;
+#mar:hover{
     color: white;
     border-radius: 8px;
+    background-color: green;
     transition: 3s;
-    
 }
 #ma{
     color: black;
     border-radius: 12px;
     margin-top: 20px;
+    background-color: white;
     
 }
-#ma :hover{
+#ma:hover{
     background-color: blue;
     color: white;
     border-radius: 8px;
