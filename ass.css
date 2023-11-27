@@ -1,5 +1,5 @@
 #nav{
-    position: sticky;
+    position: fixed;
     top: 0;
     z-index: 300;
 }
@@ -175,7 +175,7 @@
 #form{
     position: relative;
     left: 660px;
-    bottom: 39px;
+    bottom: 30px;
 }
 #about{
     position: relative;
